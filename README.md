@@ -12,4 +12,4 @@ Soy estudiante de estadística con experiencia en Análisis financiero y turíst
 
 
 
-¡Es hora de utilizar la sentencia "PULL"!
+¡Es hora de utilizar la sentencia "PULL"! :)
